@@ -1,1 +1,1 @@
-npw-lv1 projekt
+projekt za LV1 iz kolegija Napredno Web Programiranje
